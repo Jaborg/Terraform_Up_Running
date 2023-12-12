@@ -1,2 +1,2 @@
 Terraform follow along
-Enjoy
+Enjoy!
